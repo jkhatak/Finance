@@ -1,0 +1,20 @@
+
+/* Size for brand */
+nav .navbar-brand {
+    font-size: xx-large;
+    color: black; /* Set the text color to black */
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue {
+    color: black; /* Change the color to black */
+}
+nav .navbar-brand .red {
+    color: black; /* Change the color to black */
+}
+nav .navbar-brand .yellow {
+    color: black; /* Change the color to black */
+}
+nav .navbar-brand .green {
+    color: black; /* Change the color to black */
+}
